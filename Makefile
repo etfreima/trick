@@ -485,3 +485,5 @@ trick_lib: $(SIM_SERV_DIRS) $(UTILS_DIRS) | $(TRICK_LIB_DIR)
 
 # For NASA/JSC developers include optional rules
 -include Makefile_jsc_dirs
+
+tweaked this
